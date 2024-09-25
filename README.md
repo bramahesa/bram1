@@ -1,6 +1,6 @@
 # Bramantyo Mahesa | Data Analyst Portfolio
 
-![Analytics Banner](https://github.com/bramahesa/main_portfolio/blob/543e96fd3fdbe3c682ccd4b4da5e519738998603/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner_edited.png) <!-- Optional: Add a banner image -->
+![Analytics Banner](https://github.com/bramahesa/main_portfolio/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner_edited.png) <!-- Optional: Add a banner image -->
 
 ## 📊 About Me
 I’m **Bramantyo Mahesa**, an aspiring to be a data analyst with over 5 years of experience in sales within the FMCG sector with a passion for data-driven decision making. My expertise includes data cleaning, exploratory data analysis, and data visualization. Currently, I'm exploring opportunities to work as a data analyst to strech my capabilities.
