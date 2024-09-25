@@ -48,6 +48,6 @@ Developed a machine learning model to predict customer churn for a subscription 
 ---
 
 ## 🌐 Let's Connect
-- **LinkedIn:** [linkedin.com/in/bramantyo-mahesa](https://www.linkedin.com/in/bramantyo-mahesa)
+- **LinkedIn:** [linkedin.com/in/bramantyo-mahesa](https://www.linkedin.com/in/bramantyo-m-a234b6aa/)
 - **Email:** bramantyo.mahesa@gmail.com
 - **Portfolio Website:** [www.bramantyomahesa.com](https://www.bramantyomahesa.com) <!-- Optional -->
