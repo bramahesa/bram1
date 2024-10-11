@@ -8,9 +8,9 @@ I’m **Bramantyo Mahesa**, an aspiring data analyst with over 5 years of experi
 ---
 
 ## 🛠️ Skills & Tools
-- **Data Analysis:** R Programming, SQL (BigQuery, MySQL), and Microsoft Excel
+- **Data Analysis and Data Cleaning:** R Programming, SQL (BigQuery, MySQL), and Microsoft Excel
 - **Data Visualization:** Tableau and Power BI
-- **Cloud Technologies:** Google Cloud (BigQuery)
+- **Cloud Technologies:** Google Cloud (BigQuery), Google Drive, and OneDrive
 
 ---
 
@@ -44,10 +44,11 @@ Developed a machine learning model to predict customer churn for a subscription 
 
 ## 📈 Certifications & Courses
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/065811d4241c3cb34be0b2a24eee1341)
+- [HackerRankl Certificate](https://www.hackerrank.com/certificates/iframe/363a24a890c6)
 
 ---
 
 ## 🌐 Let's Connect
 - **LinkedIn:** [linkedin.com/in/bramantyo-mahesa](https://www.linkedin.com/in/bramantyo-m-a234b6aa/)
 - **Email:** bramantyo.mahesa@gmail.com
-- **Portfolio Website:** [www.bramantyomahesa.com](https://www.bramantyomahesa.com) <!-- Optional -->
+- **Portfolio Website:** [Data Analyst Portofolio Website](https://bramahesa.github.io/bramahesa-portfolio/) <!-- Optional -->
